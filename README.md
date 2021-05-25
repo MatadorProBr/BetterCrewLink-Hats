@@ -11,7 +11,7 @@
   <p align="center">
     Support for mods that add custom hats/skins for <a href="https://github.com/OhMyGuus/BetterCrewLink">BetterCrewLink</a>.
     <br />
-    <a href="https://github.com/OhMyGuus/BetterCrewLink/issues">Request Mod</a>
+    <a href="https://github.com/OhMyGuus/BetterCrewLink-Hats/issues">Request Mod</a>
 
 <!-- ABOUT THE PROJECT -->
 ## About the Project
