@@ -18,7 +18,7 @@
 
 This repository is just to bring support for custom hats/skins that mods add to Among Us for [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink).
 
-All credit goes to the people who made the hat/skin, we are not taking any credits for the images in this repository.
+All credits goes to the people who made the hat/skin, we are not taking any credits for the images in this repository.
 
 <!-- SUPPORTED HATS/SKINS FROM MODS-->
 ## Supported hats/skins from mods
